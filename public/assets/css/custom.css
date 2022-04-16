@@ -1,0 +1,141 @@
+
+.naslovAutor{
+    text-align:center;
+}
+.autor .tekst5{
+    font-weight:bold;
+}
+.profile img{
+    margin:0px auto;
+    float:none;
+}
+.profile{
+    text-align:center;
+}
+.autor{
+    margin:7rem 0 7rem 0;
+}
+.naslovAutor{
+    text-align:center;
+}
+.autor img{
+    float:right;
+}
+.autor .tekst5{
+    font-weight:bold;
+}
+
+.cartDiv{
+    padding:200px 0px 100px 0px;
+}
+#login-register .container #login-row #login-column #login-box {
+    padding-bottom:10px;
+    background-color:#d0a772;
+}
+#login-register .container #login-row #login-column #login-box #login-form {
+    padding: 20px;
+}
+#login-register .container #login-row #login-column #login-box #login-form #register-link {
+    margin-top: -85px;
+}
+#login-register{
+    padding-bottom:100px;
+    padding-top:200px;
+}
+.btnColor{
+    background-color:#9c7c54;
+}
+.btnColor:hover{
+    background-color:#ab814d;
+}
+.registerColor{
+    font-weight: bold;
+}
+.registerColor:hover{
+    color:#eba44d;
+}
+
+.dugme{
+    font-size:15px;
+}
+.addToOrder{
+   font-size:13px;
+}
+
+.pagination > li > a,
+.pagination > li > span {
+    color:#cfa671;
+}
+.page-item.active .page-link {
+    z-index: 1;
+    color: #fff;
+    background-color: #cfa671;
+    border-color: #cfa671;
+}
+
+.viewLink{
+    color:#fff;
+    background-color: #cfa671;
+    padding:5px 25px 5px 25px;
+    font-size:20px;
+    border-radius:10%;
+}
+.viewLink:hover{
+    color:#fff;
+    font-weight: bold;
+}
+#sortiranje{
+    width:220px;
+    padding:10px;
+    font-size:20px;
+    text-align:center;
+    margin-bottom:20px;
+    outline:none;
+    border: 1px solid #e4e4e4;
+    border-radius: 4px;
+    display: inline-block;
+}
+.sort{
+    margin-bottom:30px;
+    margin-top:30px;
+    width:70%;
+}
+
+.btn1{
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background: #cfa671;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none; /* Prevent double borders */
+    cursor: pointer;
+}
+.search{
+     padding: 10px;
+     font-size: 17px;
+     float: left;
+     width: 80%;
+ }
+
+
+
+filter-button-group input[type="checkbox"] {
+    background-color: #fff;
+    margin: 0;
+    font: inherit;
+    color: currentColor;
+    width: 1.15em;
+    height: 1.15em;
+    border: 0.15em solid currentColor;
+    border-radius: 0.15em;
+}
+
+.removeProductFromCart{
+    cursor:pointer;
+    color:#8d2626;
+    font-size:20px;
+}
+/*admin */
+
